@@ -606,6 +606,7 @@ function levelsInit() {
 		},
 	};
 	levelsSeq = ['title', 'leaves', 'weaving', 'tvset', 'halftones', 'circuit', 'pattern80', 'isocubes'];
+	levelsSeq = ['title'];
 	levelN = 0;
 }
 window.onresize = function () {
